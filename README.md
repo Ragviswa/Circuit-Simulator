@@ -1,6 +1,6 @@
 # Circuit Simulator
 
-The report for this project is available [here](Circuit Simulator Report.pdf)
+The report for this project is available [here](Circuit%20Simulator%20Report.pdf)
 
 
 ## Overview
